@@ -110,6 +110,7 @@ int main(void)
   while (1)
   {
 		Application();
+		//Hi Ahmed is inside 
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
